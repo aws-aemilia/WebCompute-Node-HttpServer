@@ -3,6 +3,7 @@ frontend:
   phases:
     build:
       commands:
+        - nom ci
         - npm run build
   artifacts:
     baseDirectory: build

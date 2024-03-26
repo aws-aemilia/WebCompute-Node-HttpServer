@@ -7,7 +7,7 @@
     "build": "mkdir -p build/standalone/node_modules/next && mkdir -p build/standalone/build/server && cp server.js build/standalone/"
   },
   "dependencies": {
-    "next": "latest"
+    "next": "^13.5"
   },
   "author": "",
   "license": "ISC"
